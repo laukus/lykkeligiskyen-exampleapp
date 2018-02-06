@@ -31,6 +31,6 @@ The service returns the following Json String:
 {"id":"332b8e31-1666-4ae9-a2bb-b0ef3ca95260","time":"2018-02-01T22:35:25.089Z"}
 ```
 
-id: Randomly generated GUID, a unique id for the applicaton instance.
+id: Randomly generated GUID, a unique id for the application instance.
 
-time: Textual reprentation of the current date/time,
+time: Textual representation of the current date/time,
